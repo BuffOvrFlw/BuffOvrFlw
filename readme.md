@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm currently working at **@SyNdicateFoundation**, NobleCraft, and a bunch of other organizations.
+I'm currently working at **@IzomSoftware**, NobleCraft, and a bunch of other organizations.
 
 ## Technologies
 
