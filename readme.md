@@ -18,13 +18,13 @@ I'm currently working at **@IzomSoftware**, NobleCraft, and a bunch of other org
 - Maintaining currently available projects.
 
 ## Socials
-<a href="https://SyNdicateFoundation.ir" target="_blank">
-  <img src="https://img.shields.io/badge/Website-SyNdicateFoundation.ir-grey"/>
+<a href="https://izom.net" target="_blank">
+  <img src="https://img.shields.io/badge/Website-izom.net-grey"/>
 </a>
-<a href="https://t.me/SyNdicateFoundation_IR" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-SyNdicateFoundation_ir-grey"/>
+<a href="https://t.me/IzomDotNet" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-IzomDotNet-grey"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/Discord-@Mnrchey-grey"/>
+  <img src="https://img.shields.io/badge/Discord-@BuffOvrFlw-grey"/>
 </a>
 
