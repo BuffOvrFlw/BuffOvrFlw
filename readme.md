@@ -15,16 +15,12 @@ I'm currently working at **@IzomSoftware**, NobleCraft, and a bunch of other org
 
 ## Recent Activity
 
-- Maintaining currently available projects.
+![GitHub Stats Card](https://ghstats.dev/api/card?username=BuffOvrFlw&border_radius=0&custom_title=BuffOvrFlw)
 
 ## Socials
 <a href="https://izom.net" target="_blank">
   <img src="https://img.shields.io/badge/Website-izom.net-grey"/>
 </a>
-<a href="https://t.me/IzomDotNet" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-IzomDotNet-grey"/>
+<a href="https://t.me/BuffOvrFlw" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-BuffOvrFlw-grey"/>
 </a>
-<a>
-  <img src="https://img.shields.io/badge/Discord-@BuffOvrFlw-grey"/>
-</a>
-
