@@ -15,7 +15,7 @@ I'm currently working at **@IzomSoftware**, NobleCraft, and a bunch of other org
 
 ## Recent Activity
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=BuffOvrFlw&border_radius=0&custom_title=BuffOvrFlw)
+![BuffovrFlw's Stats](https://github-readme-stats.vercel.app/api?username=BuffovrFlw&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ## Socials
 <a href="https://izom.net" target="_blank">
