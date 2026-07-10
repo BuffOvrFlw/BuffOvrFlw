@@ -19,7 +19,7 @@ I generally believe in Unix & KISS philosophy. I prefer engineering over politic
 
 ## Recent Activity
 
-![GitHub Stats](https://ghstats.dev/api/card?username=BuffOvrFlw)
+![Stats](https://github-states-generator.vercel.app/api?username=buffovrflw&theme=dark&show_icons=true&hide_progress=true)
 
 ## Socials
 <a href="https://izom.net" target="_blank">
