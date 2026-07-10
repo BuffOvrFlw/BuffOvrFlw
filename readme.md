@@ -15,7 +15,7 @@ I generally believe in Unix & KISS philosophy. I prefer engineering over politic
 
 ## Technologies
 
-[![Technologies](https://skillicons.dev/icons?i=c,rust,go,java,arduino,html,css,tailwind,linux,arch,debian,vscodium,git,postgres,mysql,sqlite,redis,docker,kubernetes&perline=8)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=c,cmake,rust,go,java,maven,arduino,bash,html,css,tailwind,linux,arch,debian,vscodium,neovim,git,postgres,mysql,sqlite,redis,nginx,docker,kubernetes,cloudflare&perline=4)](https://skillicons.dev)
 
 ## Recent Activity
 
